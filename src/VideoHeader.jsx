@@ -1,4 +1,3 @@
-import React from 'react'
 import './VideoHeader.css'
 import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos';
 import CameraAltIcon from '@mui/icons-material/CameraAlt';
